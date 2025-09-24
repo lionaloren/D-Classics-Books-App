@@ -63,10 +63,15 @@ Main features include:
 ---------------------
 - **Axure RP** → Main prototyping and interactions  
 - **HTML Export** → Interactive demo view  
-- **Poppins Font** → Typography styling  
-- _(Android Studio mockups were only used as design references and are not included here)_  
 
 ---
 
 🚀 Axure Link
 -------------
+🔗 [View Prototype](https://gpkr0o.axshare.com/)
+
+---
+
+## 👩‍💻 Contributors
+- **Emily Wilkinson** → Android Studio Development
+- **Liona Loren** → Axure Prototype Design
